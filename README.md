@@ -1,4 +1,5 @@
 # 🚀 Customer Churn Analysis
+<img width="1600" height="1000" alt="Customer Churn Analysis Dashboard Screenshot" src="https://github.com/user-attachments/assets/e98d5925-cb3a-45f6-ae94-102f96b9517c" />
 
 ## 📌 Problem Statement
 A telecom company is experiencing customer churn, which directly impacts revenue and business growth.  
